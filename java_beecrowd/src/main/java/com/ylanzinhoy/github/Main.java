@@ -1,6 +1,5 @@
 package com.ylanzinhoy.github;
 
-import com.ylanzinhoy.github.bee1001.Bee1001;
 import com.ylanzinhoy.github.bee1002.Bee1002;
 
 
